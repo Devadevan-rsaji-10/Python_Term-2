@@ -26,4 +26,5 @@ text=f.read()
 f.write("text here")
 
 # with open("text.txt",'r') as f:
+# no need to close file handle explicitly
 
